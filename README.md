@@ -15,8 +15,8 @@ Time spent: 1hr hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [ ] Users can see a screen with three labels and a 2 button
+- [ ] Tapping the button changes the screen color to a random color and random text color
  
 ## Video Walkthrough
 <div>
@@ -33,18 +33,18 @@ The following **required** functionality is completed:
 
 
 list of your favorite 3 applications with 2-3 features that make them my favorite app.
-App1: Gmail
+- [ ]App1: Gmail
 Switching between multiple Gmail accounts made simpler just by scrolling up or down on the right corner profile Image.
 Swipe left or right on mail list either deletes the mail or archieve that particular mail.
 Additionally switching between email can be done by swiping left or right.
 
-App2: Instacart
+- [ ]App2: Instacart
 Its an e-commerce of e-commerce application
 I like the feature implementation where it displays multiple store prices and availability option at one place
 Search store and filters all the items only from that particular store
 Integrated shopping list allows you to see each individual items from different stores
 
-App3: Whatsapp
+- [ ]App3: Whatsapp
 Archieving unimportant chats to avoid distractions
 Message can be sent to self number.
 
