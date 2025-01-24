@@ -21,7 +21,6 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 <div>
     <a href="https://www.loom.com/share/6f264b27fac747d2aa2543a08f4948ea">
-      <p>Loom | Free Screen & Video Recording Software | Loom - 24 January 2025 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/6f264b27fac747d2aa2543a08f4948ea">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6f264b27fac747d2aa2543a08f4948ea-3506dcbace40b221-full-play.gif">
