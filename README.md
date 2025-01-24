@@ -1,4 +1,4 @@
-# IOS_Basic
+# IOS_App
 This is the first IOS project that just changes color over button click.
 
 
